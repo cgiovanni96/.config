@@ -1,0 +1,8 @@
+.git/
+composer/
+configstore/
+github-copilot/
+lazygit/
+nextjs-nodejs/
+
+
